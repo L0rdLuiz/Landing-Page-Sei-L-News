@@ -1,12 +1,13 @@
 "Sei Lá News" - Second Project from The Odin Project
 
-This repository contains my second project for The Odin Project, a simple recipes website. Built with HTML5 and CSS3 (using Flexbox for layout), the project demonstrates my understanding of responsive layout and centered design principles.
+This repository showcases my second project for The Odin Project: a simple news website. Built with HTML5 and CSS3 (using Flexbox for layout), this project demonstrates my understanding of responsive design and layout principles.
 
 Features:
 
-*   Responsive layout, adapting to different screen sizes.
-*   Clean and centered design.
-*   List of recipes with images.
+*   (Planned) Responsive design, adapting to various screen sizes.
+*   (Planned) Clean and centered layout.
+*   (Planned) Display of news articles with images and summaries.
+*   (Planned) Basic navigation between different news categories.
 
 Technologies:
 
