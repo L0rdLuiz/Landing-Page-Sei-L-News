@@ -14,7 +14,7 @@ Technologies:
 *   HTML5
 *   CSS3 (Flexbox)
 
-Demo: [link to website]
+Demo:
 
 To run locally:
 
