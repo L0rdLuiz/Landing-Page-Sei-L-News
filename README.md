@@ -7,7 +7,7 @@ Technologies:
 *   HTML5
 *   CSS3
 
-Demo:
+Demo: https://l0rdluiz.github.io/Landing-Page-Sei-L-News/
 
 To run locally:
 
