@@ -39,6 +39,7 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    padding: 100px 0;
 }
 
 .text h2 {
@@ -62,4 +63,32 @@
 .image img{
     width: 600px;
     height: 300px;
+}
+
+.information {
+    padding: 80px;
+    text-align: center;
+}
+
+.title-info {
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 36px;
+    padding: 50px;
+}
+
+.display-news {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.news {
+    width: 200px;
+    align-items: center;
+}
+
+.news-image {
+    padding: 80px;
+    border: 2px solid #3382F6;
+    border-radius: 10px;
 }
