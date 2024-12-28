@@ -66,7 +66,7 @@
 }
 
 .information {
-    padding: 80px;
+    padding: 40px;
     text-align: center;
 }
 
@@ -92,3 +92,41 @@
     border: 2px solid #3382F6;
     border-radius: 10px;
 }
+
+.motivational-quotes {
+    background-color: #E5E7EB;
+    text-align: center;
+    padding: 80px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.name {
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 24px;
+    padding: 50px;
+}
+
+.advertisement {
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+    padding: 100px;
+    margin: 150px;
+    background-color: #3382F6;
+    border-radius: 10px;
+}
+
+.advertisement button {
+    background-color: #3382F6;
+    color: #F9FAF8;
+    padding: 8px 40px;
+    border-radius: 10px;
+    border:2px, solid, #F9FAF8;
+}
+
